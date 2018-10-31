@@ -1,0 +1,40 @@
+
+.jumbotron {
+	background-image: url(../img/vitrine.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.social a { 
+	display: block;	
+	height: 36px; width: 36px; }
+.social li { 
+	display: inline-block; 
+	margin-left: 5px;
+}
+.social-facebook {
+	background-image: url(../img/icone-face.png);
+	background-size: 36px 36px;
+}
+.social-twitter {
+	background-image: url(../img/icone-twitter.png);
+	background-size: 36px 36px;
+}
+.social-instagram {
+	background-image: url(../img/icone-insta.png);
+	background-size: 36px 36px;
+}
+
+.mapa {
+	height: 300px;
+}
+.carousel-inner {
+	width: 90%;
+}
+
+
+
+
+
+
+
